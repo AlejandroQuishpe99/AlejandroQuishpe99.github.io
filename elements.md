@@ -3,7 +3,7 @@ title: Elementos
 feature_text: |
   Bienvenido a los elementos de UNACH
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Bienvenido a los elementos de UNACH"
 aside: true
 ---
 
