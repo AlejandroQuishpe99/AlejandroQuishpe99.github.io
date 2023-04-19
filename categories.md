@@ -1,6 +1,6 @@
 ---
-title: Categorias
-layout: categorias
-excerpt: "Categorias index"
+title: Categories
+layout: categories
+excerpt: "Categories index"
 aside: true
 ---
