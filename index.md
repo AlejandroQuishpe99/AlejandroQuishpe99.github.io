@@ -3,7 +3,7 @@ title: Milton Alejandro Quishpe Lozada
 feature_text: |
   ## UNIVERSIDAD NACIONAL DE CHIMBORAZO 
   SISTEMAS DE GESTIÓN DEL APRENDIZAJE 
-feature_image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unach.edu.ec%2Flicenciatura-en-pedagogia-de-la-informatica-ele%2F&psig=AOvVaw1zqkZusyNEyjo0IxCnkS58&ust=1682030966938000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDe6eSDt_4CFQAAAAAdAAAAABAE"
+feature_image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2FSamanta_Piloneta%2Ffondo-linkedin%2F&psig=AOvVaw2uFWctm3ybY0XTz1MhhqCl&ust=1682031127963000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjeu7GEt_4CFQAAAAAdAAAAABAK"
 
 excerpt: "Esta pagina esta diseñada a medidad del estudiante Milton Alejandro Quishpe Lozada, a medida y especificaciones del PhD Xavier Soria para la carrera de pegagogia de las ciencieas experimentales informatica en el area de SISTEMAS DE GESTIÓN DEL APRENDIZAJE "
 ---
