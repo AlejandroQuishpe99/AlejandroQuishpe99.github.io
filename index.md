@@ -9,7 +9,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 <p>Hola mi nombre es milton alejandro soy estudiante de 7mo de pedagogia de la informática  </p>
 
-{% include button.html text="Entra a mi github" icon="github" link="https://github.com/AlejandroQuishpe99/AlejandroQuishpe99.github.io.git" color="#0366d6" %} {% include button.html text="Entra a mi Instagram ☕️" link="https://www.instagram.com/alexxlozadaaaa/" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/TeoriaBann" color="#0d94e7" %} {% include button.html text="Facebook ⚗️" link="https://www.facebook.com/aleajndro.q.l/" %}
+{% include button.html text="Entra a mi github" icon="github" link="https://github.com/AlejandroQuishpe99/AlejandroQuishpe99.github.io.git" color="#0366d6" %} {% include button.html text="Entra a mi Instagram ☕️" link="https://www.instagram.com/alexxlozadaaaa/" color="#f68140" %} {% include button.html text="Entra a mi Tweet" icon="twitter" link="https://twitter.com/TeoriaBann" color="#0d94e7" %} {% include button.html text="Entra a mi Facebook ⚗️" link="https://www.facebook.com/aleajndro.q.l/" %}
 
 ## Features
 
