@@ -34,10 +34,30 @@ Estas son las materias a cursar en 7mo semetre de la carrera de Pedadogia de las
 - [SISTEMAS DE GESTIÓN DEL APRENDIZAJE ](https://moodle.unach.edu.ec/course/view.php?id=36274)
 
 
-## Customising
+## Expectativas de las materias a cursar:
 
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
+Cursar una materia universitaria puede ser una experiencia emocionante y desafiante al mismo tiempo. Aquí hay algunas expectativas que podrías tener al cursar una materia universitaria:
 
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
+Mayor nivel de dificultad: Las materias universitarias son más rigurosas y exigentes que las de la escuela secundaria, por lo que puedes esperar que el nivel de dificultad sea más alto.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+Mayor independencia: A diferencia de la escuela secundaria, en la universidad se espera que tengas más independencia y responsabilidad en tus estudios. Esto significa que tendrás que ser más autónomo y organizado para cumplir con los plazos y tareas asignadas.
+
+Mayor cantidad de lectura y trabajo escrito: En la universidad, es común que tengas que leer grandes cantidades de material y escribir ensayos, informes y otros trabajos escritos con regularidad.
+
+Mayor participación en clase: En algunos cursos universitarios, se espera que los estudiantes participen activamente en las discusiones en clase, lo que significa que tendrás que estar preparado para contribuir a las conversaciones y debates.
+
+Uso de tecnología educativa: Es cada vez más común el uso de tecnología educativa en la universidad, como plataformas de aprendizaje en línea, simulaciones y recursos multimedia. Puedes esperar tener que utilizar estas herramientas en tus estudios.
+
+En general, las expectativas de cursar una materia universitaria son de una mayor exigencia y responsabilidad, pero también de una mayor libertad para explorar tus intereses y habilidades en un entorno académico desafiante y estimulante.Cursar una materia universitaria puede ser una experiencia emocionante y desafiante al mismo tiempo. Aquí hay algunas expectativas que podrías tener al cursar una materia universitaria:
+
+Mayor nivel de dificultad: Las materias universitarias son más rigurosas y exigentes que las de la escuela secundaria, por lo que puedes esperar que el nivel de dificultad sea más alto.
+
+Mayor independencia: A diferencia de la escuela secundaria, en la universidad se espera que tengas más independencia y responsabilidad en tus estudios. Esto significa que tendrás que ser más autónomo y organizado para cumplir con los plazos y tareas asignadas.
+
+Mayor cantidad de lectura y trabajo escrito: En la universidad, es común que tengas que leer grandes cantidades de material y escribir ensayos, informes y otros trabajos escritos con regularidad.
+
+Mayor participación en clase: En algunos cursos universitarios, se espera que los estudiantes participen activamente en las discusiones en clase, lo que significa que tendrás que estar preparado para contribuir a las conversaciones y debates.
+
+Uso de tecnología educativa: Es cada vez más común el uso de tecnología educativa en la universidad, como plataformas de aprendizaje en línea, simulaciones y recursos multimedia. Puedes esperar tener que utilizar estas herramientas en tus estudios.
+
+En general, las expectativas de cursar una materia universitaria son de una mayor exigencia y responsabilidad, pero también de una mayor libertad para explorar tus intereses y habilidades en un entorno académico desafiante y estimulante.
