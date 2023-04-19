@@ -76,7 +76,7 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 ### Image includes
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="https://riedesarrollo.org/wp-content/uploads/2017/04/logoUNACH-300x296.png" caption="Image with caption" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
 
