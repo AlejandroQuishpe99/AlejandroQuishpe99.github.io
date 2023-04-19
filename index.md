@@ -4,7 +4,7 @@ feature_text: |
   ## UNIVERSIDAD NACIONAL DE CHIMBORAZO 
   SISTEMAS DE GESTIÓN DEL APRENDIZAJE 
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Esta pagina esta diseñada a medidad del estudiante Milton Alejandro Quishpe Lozada, a medida y especificaciones del PhD Xavier Soria para la carrera de pegagogia de las ciencieas experimentales informatica en el area de SISTEMAS DE GESTIÓN DEL APRENDIZAJE "
 ---
 
 <p>Hola mi nombre es milton alejandro soy estudiante de 7mo de pedagogia de la informática, una de mis metas a cumplis es graduarme como Lic. en Informatica, despues de ello conseguir una maestria en sistemas y conseguir un trabajo estable en alguna Universidad.  </p>
