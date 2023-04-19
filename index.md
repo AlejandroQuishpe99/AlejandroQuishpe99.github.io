@@ -7,27 +7,21 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-<p>Hola mi nombre es milton alejandro soy estudiante de 7mo de pedagogia de la informática  </p>
+<p>Hola mi nombre es milton alejandro soy estudiante de 7mo de pedagogia de la informática, una de mis metas a cumplis es graduarme como Lic. en Informatica, despues de ello conseguir una maestria en sistemas y conseguir un trabajo estable en alguna Universidad.  </p>
 
 {% include button.html text="Entra a mi github" icon="github" link="https://github.com/AlejandroQuishpe99/AlejandroQuishpe99.github.io.git" color="#0366d6" %} {% include button.html text="Entra a mi Instagram ☕️" link="https://www.instagram.com/alexxlozadaaaa/" color="#f68140" %} {% include button.html text="Entra a mi Tweet" icon="twitter" link="https://twitter.com/TeoriaBann" color="#0d94e7" %} {% include button.html text="Entra a mi Facebook ⚗️" link="https://www.facebook.com/aleajndro.q.l/" %}
 
-## Features
+## Caracteristicas del Estudiante
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- Flexibilidad/adaptabilidad
+- Habilidades comunicativas
+- Capacidad para resolver problemas
+- Creatividad
+- Trabajo en equipo
+- Actitud positiva
+- Para unirte a nuestro grupo de trabajo [WHATSAPP]( https://chat.whatsapp.com/Fca6Zt12aeD3dYmTGbDvey )
+- Dedicación
+
 
 ## Examples
 
