@@ -23,13 +23,15 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 - Dedicación
 
 
-## Examples
+## Materias
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Estas son las materias a cursar en 7mo semetre de la carrera de Pedadogia de las Ciencias Experimentales Informatica:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- [ROBÓTICA EDUCATIVA](https://moodle.unach.edu.ec/course/view.php?id=36273)
+- [LECTURA Y ESCRITURA DE TEXTOS ACADÉMICOS](https://moodle.unach.edu.ec/course/view.php?id=36271)
+- [INNOVACIÓN TECNOLÓGICA EN LA EDUCACIÓN II ](https://moodle.unach.edu.ec/course/view.php?id=36270)
+- [PROYECTOS DE INTEGRACIÓN DE LAS TIC EN LA EDUCACIÓN](https://moodle.unach.edu.ec/course/view.php?id=36272)
+- [SISTEMAS DE GESTIÓN DEL APRENDIZAJE ](https://moodle.unach.edu.ec/course/view.php?id=36274)
 
 ## Installation
 
