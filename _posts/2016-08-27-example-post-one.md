@@ -1,8 +1,8 @@
 ---
-title: Description of an Alembic
+title: Descripcion de Alejandro
 categories:
 - General
-- External sources
+- Fuentes externas
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
