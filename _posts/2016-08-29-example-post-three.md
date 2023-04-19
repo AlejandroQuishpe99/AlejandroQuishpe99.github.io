@@ -1,18 +1,16 @@
 ---
-title: Description of a Pot Still
+title: Descripción de mi blog 
 categories:
 - General
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
+ Un blog personal es un sitio web o una plataforma en línea donde una persona puede escribir y compartir sus pensamientos, opiniones, experiencias, intereses y conocimientos sobre diversos temas de manera regular. Es un espacio en línea que permite a los bloggers compartir su perspectiva única con una audiencia más amplia en la web.
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
+  ## Mi Blog 
+  Aqui te informo como pudes llevar un blog y lo que es ir dia a dia con un blog 
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
+Un blog personal puede tratar sobre cualquier tema, desde moda, cocina, viajes, tecnología, deportes, salud, belleza, hasta política, cultura y sociedad, entre otros. Los bloggers pueden usar su blog para expresar sus ideas, compartir historias y conectar con personas que comparten sus intereses.
 
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
-
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+Los blogs personales suelen ser escritos en un tono informal y cercano, lo que permite a los bloggers expresarse de manera auténtica y conectar con su audiencia de una manera más íntima. Además, los blogs personales a menudo incluyen fotos, videos y otros medios para enriquecer el contenido y hacerlo más atractivo y dinámico.
